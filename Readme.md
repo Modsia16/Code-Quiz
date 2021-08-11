@@ -55,7 +55,7 @@ css - initials input
 
 ![screenshot](code-quiz.png)
 
-![deplyed page]()
+![deplyed page](https://modsia16.github.io/Code-quiz/)
 
 
 
